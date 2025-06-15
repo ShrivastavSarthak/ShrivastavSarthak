@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **a Parental Control System**  
-- 🌱 I’m learning **Firebase Notifications and Razorpay Integration**  
-- 💬 Ask me about **Next.js, NestJS, MongoDB, or full-stack architectures**  
-- 👨‍🎓 Graduated in **2024**  
-- ⚡ Fun fact: I can build both APIs and UI without coffee 😄
+- 🎯 Full Stack Developer passionate about building seamless, scalable, and modern web applications  
+- 🔍 Currently diving deep into advanced **frontend and backend concepts** to sharpen my architectural thinking  
+- 🧠 Hands-on with **Next.js, NestJS, MongoDB**, and everything in between — from UI to APIs  
+- 🎓 Graduated in **2024**, and always learning something new every day  
+- ☕ Fun fact: I can build complete apps without needing a sip of coffee 😄
 
 ---
 
@@ -32,9 +32,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-kumar&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrivastavSarthak&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-kumar&theme=tokyonight" alt="Sarthak's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrivastavSarthak&theme=tokyonight" alt="Sarthak's GitHub Streak" />
 </p>
 
 ---
@@ -42,15 +42,15 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/sarthak-kumar-1bbb1921a/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:sarthakkumar2026@gmail.com">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://your-portfolio.com">
+<!--   <a href="https://your-portfolio.com">
     <img align="center" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
-  </a>
+  </a> -->
 </p>
 
 ---
