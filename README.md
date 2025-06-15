@@ -23,10 +23,9 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nest,mongodb,node,express,html,css,tailwind,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nest,mongodb,node,express,html,css,tailwind,redux,git,github,vscode,vercel,aws,postman,go,mui" />
 </p>
-
 ---
 
 ### 📈 GitHub Stats
