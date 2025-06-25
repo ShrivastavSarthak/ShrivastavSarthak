@@ -32,9 +32,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShrivastavSarthak&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub Stats" />
-  <br />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ShrivastavSarthak" alt="Sarthak's GitHub Streak" />
 </p>
+
 
 ---
 
