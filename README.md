@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShrivastavSarthak&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrivastavSarthak&theme=tokyonight" alt="Sarthak's GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=ShrivastavSarthak&theme=tokyonight](https://streak-stats.demolab.com?user=ShrivastavSarthak&theme=tokyonight" alt="Sarthak's GitHub Streak" />
 </p>
 
 ---
